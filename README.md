@@ -1,5 +1,5 @@
 # TELNET
-Telnet protocol demo   
+Telnet protocol demo implemented by Java  
 Computer Networking course second project  
 Instructor: Dr Sabaei  
 Amirkabir University of Technology  
